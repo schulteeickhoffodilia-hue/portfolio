@@ -1,6 +1,6 @@
 # À propos
 
-```{image} ./img/Users/odiliaschulte-eickhoff/Library/CloudStorage/OneDrive-UniversitédeLausanne/Geoinfoactu/projet/perso/IMG_3949.jpeg
+```{image} ./img/IMG_3949.PNG
 :alt: Photo de profil
 :class: bg-primary mb-1
 :width: 200px
