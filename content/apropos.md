@@ -7,4 +7,4 @@
 :align: left
 ```
 \
-Je suis étudiant(e) en bachelor en  **[géosciences (FGSE)]** à l'**UNIL**, avec un intérêt particulier pour **[sciences de l'environnement/ sciences aquatiques]**.
+Je suis étudiant(e) en bachelor en  **géosciences (FGSE)** à l'**UNIL**, avec un intérêt particulier pour **sciences de l'environnement / sciences aquatiques**.
